@@ -1,0 +1,3 @@
+C:\Users\karel\Desktop\RimWorlds\RimWorld1135Win\Mods\LT_NoCleaningPlease\Source\obj\Debug\NoCleaningPlease.csprojResolveAssemblyReference.cache
+C:\Users\karel\Desktop\RimWorlds\RimWorld1135Win\Mods\LT_NoCleaningPlease\Assemblies\NoCleaningPlease.dll
+C:\Users\karel\Desktop\RimWorlds\RimWorld1135Win\Mods\LT_NoCleaningPlease\Source\obj\Debug\NoCleaningPlease.dll
